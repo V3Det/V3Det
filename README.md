@@ -1,6 +1,6 @@
 # <img src="images/v3det_icon.jpg" height="40"> V3Det: Vast Vocabulary Visual Detection Dataset
 
-> V3Det: Vast Vocabulary Visual Detection Dataset [[Paper](https://arxiv.org/pdf/2304.03752.pdf), Dataset]   
+> V3Det: Vast Vocabulary Visual Detection Dataset (ICCV 2023) [[Paper](https://arxiv.org/pdf/2304.03752.pdf), [Dataset](https://v3det.openxlab.org.cn/)]   
 > [Jiaqi Wang](https://myownskyw7.github.io/), [Pan Zhang](https://panzhang0212.github.io/), Tao Chu, Yuhang Cao, Yujie Zhou, [Tong Wu](https://wutong16.github.io/), Bin Wang, Conghui He, [Dahua Lin](http://dahua.site/)    
 
 <p align="left">
