@@ -8,7 +8,7 @@
 </p>
 
 ## Codebase
-- [x] mmdetection: https://github.com/V3Det/mmdetection-V3Det
+- [x] mmdetection: https://github.com/V3Det/mmdetection-V3Det/tree/main/configs/v3det
 - [ ] Detectron2
 
 ## Citation
