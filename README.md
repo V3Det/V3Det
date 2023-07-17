@@ -9,7 +9,7 @@
 
 ## Codebase
 - [x] mmdetection: https://github.com/V3Det/mmdetection-V3Det
-- [] Detectron2
+- [ ] Detectron2
 
 ## Citation
 
