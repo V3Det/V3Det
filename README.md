@@ -33,7 +33,7 @@
 
 ## Data Format
 
-The data includes a training set, a validation set and a category tree, comprising 13,204 categories. The training set consists of 183,354 images, while the validation set has 29,821 images. The data organization is:
+The data includes a training set, a validation set, comprising 13,204 categories. The training set consists of 183,354 images, while the validation set has 29,821 images. The data organization is:
 ```
 V3Det/
     images/
