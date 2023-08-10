@@ -1,15 +1,15 @@
 # TreeUI Operation Guide
 
-## 1. Data and Environment Setup
+## Data and Environment Setup
 
 Use `v3det_image_download.py` to download the dataset images into `images` in the `/path/to/V3Det` directory. 
 Download `v3det_2023_v1_category_tree.json` into the `annotations` directory.
 
 Install the required package: `pip install pyqt5`
 
-## 2. Visualization Tool and Instructions
+## Visualization Tool and Instructions
 After running `python v3det_visualize_tree.py`, a dialog box will pop up. Select the downloaded dataset folder `/path/to/V3Det`. Following this, the visualization tool interface will appear:
-![view.png](../TreeUI.png)
+![view.png](images/visual_tree.png)
 
 Description of functions and operations:\
 ① Search box: Enter English or Chinese text for searching. The results will be displayed in ⑤.\
