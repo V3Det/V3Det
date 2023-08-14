@@ -14,7 +14,7 @@
     Conghui He,
     <a href='http://dahua.site/' target='_blank'>Dahua Lin</a></br>
     (* equal contribution)</br>
-    <strong>Accepted to ICCV 2023</strong>
+    <strong>Accepted to ICCV 2023 (Oral)</strong>
 </div>
 </p>
 <p>
