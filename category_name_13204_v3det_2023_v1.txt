@@ -273,7 +273,7 @@ menhir
 shoulder board
 shoulder patch
 totem pole
-decoration
+medal
 trophy
 mascot
 tomb of the unknown soldier
@@ -507,7 +507,7 @@ window valance
 water well
 artesian well
 curtain
-door
+entrance
 doorframe
 doorknob
 dormer
@@ -634,7 +634,7 @@ laundry detergent
 lip balm
 lotion
 nail polish
-eyebrow pencil
+Eyebrow pencils
 perfume
 razor
 sanitary napkin
@@ -873,7 +873,7 @@ barbette carriage
 battering ram
 bomb
 brass knucks
-slug
+bullet
 cannon
 crossbow
 gun
@@ -1439,7 +1439,7 @@ ski pole
 sled
 snorkel
 snowboard
-stilt
+Stilts
 stirrup
 surfboard
 table-tennis table
@@ -1827,7 +1827,7 @@ printer
 radome
 record player
 remote
-speaker
+reproducer
 rotisserie
 projection screen
 sewing machine
@@ -2440,7 +2440,7 @@ ski boot
 ski cap
 skirt
 skullcap
-sleeper
+Babygrow
 sling
 slipper
 sock
@@ -2462,7 +2462,7 @@ toque
 turban
 undergarment
 uniform
-vest
+Waistcoat
 bracelet
 watch cap
 wedge heel
@@ -2572,7 +2572,7 @@ long sleeve T-shirt
 dress shirts
 Chiffon shirt
 knit shirt
-cardigan
+Cardigan Welsh Corgi
 polo shirt
 thin cardigan
 cashmere sweater
@@ -3260,7 +3260,7 @@ bok choy
 head cabbage
 red cabbage
 cauliflower
-squash
+Cucurbita
 butternut squash
 turban squash
 jerusalem artichoke
@@ -3425,7 +3425,7 @@ algarroba
 screw bean
 nephthytis afzelii
 ginseng
-amaranth
+amaranths
 beetroot
 savoy cabbage
 brussels sprout
@@ -3534,7 +3534,7 @@ carambola
 citrus
 bergamot
 pomelo
-citron
+Citrus medica
 mandarin orange
 tangerine
 clementine
@@ -3634,7 +3634,7 @@ Chongcai
 Tribute dish
 Kale
 shepherd's purse
-fennel
+Foeniculum vulgare
 Spinach
 Brassica juncea
 Brasenia schreberi
@@ -3644,14 +3644,14 @@ seaweed
 Coriander
 Brassica rapa
 horseradish
-radish
+Raphanus
 green onions
 shallots
 ginger
 Jerusalem artichoke
 lotus vegetable
 Garlic
-celtuce
+celery lettuce
 Taro
 Konjac
 Potato
@@ -3677,7 +3677,7 @@ pepper
 wax gourd
 Momordica charantia
 milk melon
-cucumber
+pickled cucumbers
 Gourd
 snake melon
 eggplant
@@ -3745,13 +3745,13 @@ Buckwheat malt
 Peanut sprouts
 Soybean sprouts
 Mung bean sprouts
-broccoli
+Calabrese broccoli
 Nori vine
 artichoke
 Chaotian pepper
 screw pepper
 golden pumpkin
-zucchini
+Courgette
 Chayote
 Four-sided beans
 Corn tip
@@ -4843,7 +4843,7 @@ calycanthus occidentalis
 purple anise
 chinese magnolia
 water lilly
-nymphaea odorata
+water nymph
 european white lily
 lotus
 blue lotus
@@ -5157,7 +5157,7 @@ russian dandelion
 stemless hymenoxys
 easter daisy
 yellow salsify
-salsify
+Tragopogon porrifolius
 tragopogon pratensis
 scentless camomile
 tussilago farfara
@@ -5237,7 +5237,7 @@ malva moschata
 malva neglecta
 abelmosk
 flowering maple
-rose mallow
+confederate rose mallow
 althea
 marsh mallow
 poppy mallow
@@ -5342,7 +5342,7 @@ jonquil
 jacobean lily
 star grass
 hypoxis hirsuta
-mountain lily
+Lilium speciosum
 lilium canadense
 madonna lily
 lilium columbianum
@@ -5398,7 +5398,7 @@ lady tulip
 darwin tulip
 gloriosa
 lemon lily
-harebell
+wild_hyacinth
 star-of-bethlehem
 ornithogalum umbellatum
 chincherinchee
@@ -5690,7 +5690,7 @@ stable fly
 ring-billed gull
 european herring gull
 northern seahorse
-list of dog crossbreeds
+yorkipoo
 hoverfly
 limecola balthica
 polyommatus
@@ -5716,7 +5716,7 @@ common gallinule
 blue winged teal
 common sandpiper
 eastern screech owl
-list of dog crossbreeds
+maltepoo
 helarctos malayanus
 eumenidae
 maniola
@@ -5786,7 +5786,7 @@ florida redbelly turtle
 clouded yellows
 carolina anole
 smooth greensnake
-list of dog crossbreeds
+beagador
 soldier beetle
 northern flicker
 giant swallowtail
@@ -5866,7 +5866,7 @@ aphantopus
 northern gannet
 seppala siberian sleddog
 estonian hound
-list of dog crossbreeds
+cavapoo
 grind rail
 carterocephalus
 silver-studded blue
@@ -11284,7 +11284,7 @@ lovebird
 varied lorikeet
 rainbow lorikeet
 carolina parakeet
-lovebird
+budgerigar
 psittacula krameri
 cuculus canorus
 black billed cuckoo
@@ -11458,7 +11458,7 @@ bleeding tooth
 neritina
 whelk
 moon shell
-periwinkle
+Common periwinkle
 limpet
 common limpet
 keyhole limpet
@@ -11565,7 +11565,7 @@ old world coot
 great bustard
 plain turkey
 plain wanderer
-trumpeter
+Trumpeter swan
 brazilian trumpeter
 piping plover
 charadrius vociferus
@@ -11793,9 +11793,9 @@ kit fox
 blue fox
 urocyon cinereoargenteus
 kitten
-tortoiseshell
+Tortoiseshell cat
 persian cat
-angora
+Angora rabbit
 blue point siamese
 sand cat
 felis silvestris
@@ -12061,7 +12061,7 @@ earwig
 common european earwig
 butterfly
 mourning cloak
-tortoiseshell
+Tortoiseshell butterflies
 painted beauty
 admiral
 red admiral
@@ -12108,7 +12108,7 @@ cutworm
 red underwing
 antler moth
 heliothis moth
-armyworm
+Moth armyworm
 armyworm
 spodoptera exigua
 spodoptera frugiperda
@@ -12117,7 +12117,7 @@ tomato hornworm
 acherontia atropos
 bombycid
 silkworm
-emperor
+Emperor moths
 imperial moth
 actias luna
 cecropia
@@ -12499,7 +12499,7 @@ largemouth
 yellow bass
 black sea bass
 striped bass
-hind
+Epinephelus
 rock hind
 creole-fish
 jewfish
@@ -12700,7 +12700,7 @@ flatfish
 redfish
 rockfish
 european lobster
-crayfish
+langustas
 prawn
 rainbow trout
 brook trout
@@ -13051,7 +13051,7 @@ sloth
 writing_implement
 percussion_instrument
 acarine
-cricket
+Cricket (insect)
 cutting_implement
 signaling_device
 vessel
@@ -13131,7 +13131,7 @@ shop
 cockroach
 fabric
 tent
-dish
+Dish (food)
 column
 camel
 tube
@@ -13162,7 +13162,7 @@ emblem
 ox
 reptile
 shellfish
-man
+chess piece
 entity
 sports_equipment
 barn
