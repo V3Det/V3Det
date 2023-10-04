@@ -118,7 +118,7 @@ Please refer to the [TreeUI Operation Guide](VisualTree.md) for more information
 
 ## Codebase
 - [x] mmdetection: https://github.com/V3Det/mmdetection-V3Det/tree/main/configs/v3det
-- [x] Detectron2： https://github.com/V3Det/Detectron2-V3Det/tree/main/det/projects/ViTDet/configs/V3Det
+- [x] Detectron2： https://github.com/V3Det/Detectron2-V3Det/tree/main/projects/ViTDet/configs/V3Det
 
 ## Citation
 
