@@ -32,8 +32,13 @@
 </p>
 
 ## Codebase
+### Object Detection
 - [x] mmdetection: https://github.com/V3Det/mmdetection-V3Det/tree/main/configs/v3det
-- [x] Detectron2： https://github.com/V3Det/Detectron2-V3Det/tree/main/projects/ViTDet/configs/V3Det
+- [x] Detectron2： https://github.com/V3Det/Detectron2-V3Det
+
+### Open Vocabulary Detection (OVD)
+- [x] Detectron2： https://github.com/V3Det/Detectron2-V3Det
+- [ ] mmdetection: https://github.com/V3Det/mmdetection-V3Det/tree/main/configs/v3det (coming soon)
 
 ## Data Format
 
