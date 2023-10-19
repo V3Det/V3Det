@@ -124,6 +124,12 @@ python v3det_visualize_tree.py
 
 Please refer to the [TreeUI Operation Guide](VisualTree.md) for more information.
 
+## License:
+- **V3Det Images**: Around 90% images in V3Det were selected from the [Bamboo Dataset](https://github.com/ZhangYuanhan-AI/Bamboo), sourced from the Flickr website. The remaining 10% were directly crawled from the Flickr. **We do not own the copyright of the images.** Use of the images must abide by the [Flickr Terms of Use](https://www.flickr.com/creativecommons/). We only provide lists of image URLs without redistribution. 
+
+- **V3Det Annotations**: The V3Det annotations, the category relationship tree, and related tools are licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/) (allow commercial use).
+
+
 ## Citation
 
 ```bibtex
