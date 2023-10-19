@@ -38,7 +38,6 @@
 
 ### Open Vocabulary Detection (OVD)
 - [x] Detectron2： https://github.com/V3Det/Detectron2-V3Det
-- [ ] mmdetection: https://github.com/V3Det/mmdetection-V3Det/tree/main/configs/v3det (coming soon)
 
 ## Data Format
 
