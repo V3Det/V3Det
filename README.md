@@ -124,6 +124,25 @@ python v3det_visualize_tree.py
 
 Please refer to the [TreeUI Operation Guide](VisualTree.md) for more information.
 
+
+## Evaluation
+
+- We provide evaluation code [here](./evaluation). To evaluate the model, you need
+
+### Step 1. Install Requirements
+```base
+pip install pycocotools, tqdm
+pip install openmim
+mim install mmengine
+```
+
+### Step 2. Format Results
+Please format your detection result into COCO JSON format
+
+### Step 3. Evaluate
+Run the python script [eval_v3det.py](./evaluation/eval_v3det.py).
+
+
 ## License:
 - **V3Det Images**: Around 90% images in V3Det were selected from the [Bamboo Dataset](https://github.com/ZhangYuanhan-AI/Bamboo), sourced from the Flickr website. The remaining 10% were directly crawled from the Flickr. **We do not own the copyright of the images.** Use of the images must abide by the [Flickr Terms of Use](https://www.flickr.com/creativecommons/). We only provide lists of image URLs without redistribution. 
 
