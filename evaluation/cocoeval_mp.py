@@ -400,6 +400,11 @@ class COCOevalMP(COCOeval):
                         _summarize(
                             0, areaRng=area_rng, maxDets=self.params.maxDets[-1], cat_kind=cat_kind))
             stats = np.array(stats)
+
+            print()
+            print('-' * 45)
+            print(f'Compute OVD AP: (bAP + 3 * nAP) / 4 = {(stats[0] + 3 * stats[10]) / 4.:.2f}')
+            print('-' * 45)
             return stats
 
 

@@ -140,7 +140,8 @@ mim install mmengine
 Please format your detection result into COCO JSON format
 
 ### Step 3. Evaluate
-Run the python script [eval_v3det.py](./evaluation/eval_v3det.py).
+Run the python script:`python eval_v3det.py dt_json_path`
+
 
 
 ## License:
