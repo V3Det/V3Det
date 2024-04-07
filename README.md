@@ -41,7 +41,30 @@
 
 ## Data Format
 
-The data includes a training set, a validation set, comprising 13,204 categories. The training set consists of 183,354 images, while the validation set has 29,821 images. The data organization is:
+The data includes a Train Set, a Val Set, and a Test Set, comprising 13,204 categories. 
+
+| Split |      Images      | BBoxes | 
+| :------: | :-------------: | :-----: |
+|   Train Set  |  183,354  |   1,357,377   | 
+|   Val Set  |  29,821  |   220,429   | 
+|   Test Set  | 29,863  |   219,012   | 
+|   Train Set OVD (Base Class)   |  132,437  |  836,203    | 
+
+The 13,204 categories are split into 6709 Base Class and 6495 Novel Class for OVD tasks. For each of the 13,204 categories, we prepare an exemplar image and detailed descriptions from various resources (human experts, ChatGPT, GPT4, and GPT4V).
+
+| Base Class |     Novel Class      | All Class | 
+| :------: | :-------------: | :-----: |
+|   6709  |  6495  |  13204   | 
+
+The Train Set OVD (Base Class) is a subset of train set that only keeps the annotations of base classes, which is prepared for OVD (Open-Vocubalary Detection) tasks. Images without any annotations after filtering out novel annotations are removed. It is perpared for OVD (Open-Vocubalary Detection) tasks.
+
+| Split |      Images      | BBoxes | 
+| :------: | :-------------: | :-----: |
+|   Train Set  |  183,354  |   1,357,377   | 
+|   Train Set OVD (Base Class)   |  132,437  |  836,203    | 
+
+
+The data organization is:
 ```
 V3Det/
     images/
