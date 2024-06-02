@@ -191,6 +191,7 @@ Run the python script:`python eval_v3det.py dt_json_path`
 
 - **V3Det Annotations**: The V3Det annotations, the category relationship tree, and related tools are licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/) (allow commercial use).
 
+- **Codebase**: [mmdetection-V3Det License](https://github.com/V3Det/mmdetection-V3Det/blob/main/LICENSE) and [Detectron2-V3Det License](https://github.com/V3Det/Detectron2-V3Det/blob/main/LICENSE.txt)
 
 ## Citation
 
