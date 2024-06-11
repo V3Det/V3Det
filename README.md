@@ -21,7 +21,10 @@
 <div>
     <strong>
         <a href='https://arxiv.org/pdf/2304.03752.pdf' target='_blank'>Paper</a>, 
-        <a href='https://v3det.openxlab.org.cn/' target='_blank'>Dataset</a></br>
+        <a href='https://v3det.openxlab.org.cn/' target='_blank'>HomePage</a>,
+        <a href='https://huggingface.co/datasets/yhcao/V3Det_Backup/' target='_blank'>HuggingFace Download</a>,
+        <a href='https://opendatalab.com/V3Det/' target='_blank'>OpenDataLab Download</a>
+        </br>
     </strong>
 </div>
 </div>
